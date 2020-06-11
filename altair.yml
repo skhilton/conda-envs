@@ -1,0 +1,8 @@
+name: altair
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6   # or 2.7
+  - altair
+  - vega_datasets
+  - vega<2
